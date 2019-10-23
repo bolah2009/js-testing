@@ -33,5 +33,9 @@
   "homepage": "https://github.com/bolah2009/js-testing#readme",
   "dependencies": {
     "dotenv": "^8.2.0"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }

@@ -1,3 +1,8 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/c82295c5b142228f6276/maintainability)](https://codeclimate.com/github/bolah2009/js-testing/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c82295c5b142228f6276/test_coverage)](https://codeclimate.com/github/bolah2009/js-testing/test_coverage)
+[![Build Status](https://travis-ci.com/bolah2009/js-testing.svg?branch=master)](https://travis-ci.com/bolah2009/js-testing)
+[![codecov](https://codecov.io/gh/bolah2009/js-testing/branch/master/graph/badge.svg)](https://codecov.io/gh/bolah2009/js-testing)
+
 ## PROJECT: Testing Practice
 
 This is the sixth project of the Main JavaScript curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
